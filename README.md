@@ -125,11 +125,11 @@ today i created the cart in jlcpcb.
 BOM
 1. motor
 2. frame
-3. pcb
-4. radio controller frame
+3. fc & esc
+4. radio controller
 5. propller
 6. camera
 7. lipo battery
-8. micllaenous
+8. antenna
 
 
