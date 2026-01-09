@@ -119,6 +119,32 @@ today i created the cart in jlcpcb.
 
 
 
+visuals of transmitter and recever
+
+
+
+
+
+
+
+
+
+
+<img width="641" height="448" alt="visual r" src="https://github.com/user-attachments/assets/828ba41f-505a-4ffd-b0b7-af925ea6c9ea" />
+
+
+
+
+
+
+
+
+<img width="854" height="518" alt="visual t" src="https://github.com/user-attachments/assets/c9cd65c6-070b-4a35-87b9-664cfffa0427" />
+
+
+
+
+
 
 
 
